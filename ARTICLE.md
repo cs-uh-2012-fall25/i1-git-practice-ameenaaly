@@ -1,5 +1,5 @@
 # Article Link:
-[https://bootcamps.cs.cmu.edu/blog/will-ai-replace-software-engineers-reality-check](Will AI Make Software Engineers Obsolete?)
+[Will AI Make Software Engineers Obsolete?](https://bootcamps.cs.cmu.edu/blog/will-ai-replace-software-engineers-reality-check)
 
 # Interesting points:
 In this blog post, published by Carnegie Mellon University, titled _Will AI Make Software Engineers Obsolete? Here’s the Reality_, the author argues that while AI is revolutionizing the tech industry it cannot make Software Engineers obsolete. The argument is based on the belief that AI is not creative and does not have critical thinking skills. Therefore, humans will always remain the primary Software Engineering solution providers but can now use AI as a tool to help them. The blog post is calling people to take part in coding bootcamp offered by Carnegie Mellon University, 
